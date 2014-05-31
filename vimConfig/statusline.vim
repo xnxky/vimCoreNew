@@ -1,5 +1,5 @@
 set encoding=utf-8
-set guifont=Consolas\ for\ Powerline\ FixedD:h14:cANSI
+set guifont=Powerline_Consolas:h14:cANSI
 set t_Co=256
 let g:airline_powerline_fonts = 1
 "setting according to C:\vim\vimfiles\bundle\vim-airline\plugin\airline.vim
