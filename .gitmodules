@@ -4,3 +4,9 @@
 [submodule "vimfiles/bundle/unite.vim"]
 	path = vimfiles/bundle/unite.vim
 	url = https://github.com/Shougo/unite.vim
+[submodule "vimfiles/bundle/L9"]
+	path = vimfiles/bundle/L9
+	url = https://github.com/vim-scripts/L9
+[submodule "vimfiles/bundle/autocomplpop"]
+	path = vimfiles/bundle/autocomplpop
+	url = https://github.com/othree/vim-autocomplpop
