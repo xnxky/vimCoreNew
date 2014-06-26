@@ -34,6 +34,7 @@ execute 'source '.vimConfigDir.'/ultisnips.vim'
 execute 'source '.vimConfigDir.'/indent.vim'
 execute 'source '.vimConfigDir.'/ctrlp.vim'
 execute 'source '.vimConfigDir.'/ConqueTerm.vim'
+execute 'source '.vimConfigDir.'/unite.vim'
 
 set viminfo+=n$LOCALAPPDATA/_viminfo
 "*************************************************************************
